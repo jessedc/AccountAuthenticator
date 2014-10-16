@@ -34,3 +34,6 @@ local.properties
 # Application file
 .apk
 .ap_
+
+# gradle
+build/

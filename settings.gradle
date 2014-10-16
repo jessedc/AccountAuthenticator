@@ -1,0 +1,2 @@
+include ':ExampleApp'
+include ':ExampleApp2'
